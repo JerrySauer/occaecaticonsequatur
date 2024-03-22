@@ -1,0 +1,40 @@
+{
+  "name": "occaecaticonsequatur",
+  "version": "1.0.0",
+  "description": "Build all of your angular templates in just one js file using $templateCache provider",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JerrySauer/occaecaticonsequatur.git"
+  },
+  "keywords": [
+    "gulpplugin",
+    "error",
+    "nemo",
+    "angularjs",
+    "ng",
+    "a",
+    "templatecache"
+  ],
+  "author": "SandrineSpinka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JerrySauer/occaecaticonsequatur.git/issues"
+  },
+  "dependencies": {
+    "event-stream": "^3.1.7",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-footer": "^1.0.5",
+    "gulp-header": "^1.8.8",
+    "gulp-util": "^3.0.1",
+    "html-minifier": "^3.1.0",
+    "js-string-escape": "^1.0.1",
+    "lodash": "^3.7.0",
+    "path": "^0.4.9"
+  },
+  "devDependencies": {
+    "mocha": "^1.21.4",
+    "vinyl": "^0.4.3"
+  }
+}
